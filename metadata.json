@@ -1,0 +1,6 @@
+{
+  "name": "Sophia - AI Girlfriend",
+  "description": "একটি আধুনিক, আবেগপূর্ণ ও বাস্তবসম্মত ভার্চুয়াল সঙ্গিনী সোফিয়া।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
